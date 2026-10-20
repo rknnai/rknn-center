@@ -1,0 +1,17 @@
+Origin: RKNN Center
+Label: RKNN Center
+Suite: stable
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Date: Tue, 20 Oct 2026 09:46:43 +0000
+Description: RKNN Center packages
+MD5Sum:
+ 165220a8d3118a82c776da19d1b28842 486 main/binary-amd64/Packages
+ 65d3c9526776cde162fbbb97ceb9b2ed 481 main/binary-arm64/Packages
+SHA1:
+ 5675c29f8de5a0c30f291f545881f399564b1792 486 main/binary-amd64/Packages
+ d9eb0f37f54681fff0f8e4d9998dd27ef6890a3c 481 main/binary-arm64/Packages
+SHA256:
+ 97c3dd28a7a1f94f2398d2a2179b53f9ae155d5d8ed990ecb234e279ab603f78 486 main/binary-amd64/Packages
+ 41df55b9db533e0f05615a3dca81b6e47b0f2eb6ffb45c595a7b2016b3114355 481 main/binary-arm64/Packages

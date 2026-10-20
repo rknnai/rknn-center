@@ -1,0 +1,12 @@
+PackageIdentifier: RKNN.Center
+PackageVersion: 0.2.7
+InstallerType: nullsoft
+Scope: machine
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://rknnai.github.io/rknn-center/packages/x86_64-pc-windows-gnullvm/RKNN-Center_0.2.7_windows-x86_64_setup.exe
+    InstallerSha256: 6fde63277e4d081f9ca921cb6aeee1d3d11d43cbfd6e571acfb68b3a5e4c12fa
+    InstallerSwitches:
+      Silent: /S
+ManifestType: installer
+ManifestVersion: 1.6.0

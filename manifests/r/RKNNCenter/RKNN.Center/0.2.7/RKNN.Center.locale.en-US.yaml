@@ -1,0 +1,8 @@
+PackageIdentifier: RKNN.Center
+PackageVersion: 0.2.7
+PackageLocale: en-US
+Publisher: RKNN Center
+PackageName: RKNN Center
+ShortDescription: RKNN Center desktop application and device manager
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
